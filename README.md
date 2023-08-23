@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siba2310 from Ho Chi Minh, Viet Nam
 - 👀 I’m interested in games, moives, 
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning, big data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
